@@ -2,13 +2,13 @@
 Contributors: SplitMango Media Inc.
 Tags: myRealPage
 Requires at least: 2.9.2
-Tested up to: 2.9.2
+Tested up to: 3.0
 
 Display your active listings from myRealPage on your Wordpress blog
 
 == Description ==
 
-This widget is for those who blog using Wordpress and have a website for their listings at myRealPage. You want to be able to list your listings on the sidebar of you blog, now you can.
+This widget is for those who blog using Wordpress and have a website for their listings at myRealPage. You want to be able to list your listings on the sidebar of your blog, now you can.
 
 == Installation ==
 
